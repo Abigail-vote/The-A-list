@@ -1,2 +1,2 @@
-# The-A-list
-The A list
+it's a voting service website, when the user goes into the link, there's 5 spaces left there for u to write someone's name, after vote, it''ll show "Waiting...", then when evrybody vote, there will be a result, who (nmae) got most piont will be top, 1., second 2., 3., 4., etc. Then when scroll down down the result, there will be a 2D pyramid with ABCD grade, and sb. names inside the space indode the pyramid.
+11 people will vote, but there's a end voting button, but need password to open it, inorder to end it, password: Abigail, the ranking are based on the votes, and the grades are based on the ranking.  They vote for five people, without repeat, they can vote again, after the host, (me), starts the next voting round nextime, like a week after. it should store the votes, every time of result, everytime time we play, it should also have the date, we can see the before votes in a button "History".
